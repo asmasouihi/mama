@@ -1,0 +1,49 @@
+body{
+    background-color:burlywood;
+    color:rgb(17, 133, 153);
+    font-family: Arial;
+    
+    
+   
+  
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:brown;
+  }
+  
+  li {
+    float: left;
+  
+   
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 16px 14px;
+    text-decoration: none;
+    
+    
+  }
+  
+  li a:hover:not(.active) {
+    background-color:rgb(192, 50, 205);
+  }
+  
+  .active {
+    background-color: rgb(174, 50, 205);
+  }
+ 
+  
+
+  .footer2{
+    background-color:rgb(46, 45, 45);
+    color:white;
+    padding: 2px;
+  }
+ 
